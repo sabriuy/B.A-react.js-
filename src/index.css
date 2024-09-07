@@ -1,0 +1,10 @@
+#contenedor{ 
+    margin-top: 15%;
+    margin-bottom: 5%;
+    margin-left: 4rem;
+    display:grid;
+    position:relative;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    
+}
